@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1546169782 source:d:\projects\studentrecord\main.cpp
+	<iostream>
+	<istream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<stdio.h>
+
+1546254317 source:d:\projects\project student record\main.cpp
+	<iostream>
+	<istream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<stdio.h>
+
+1558605204 source:d:\projects\new folder\project student record\main.cpp
+	<iostream>
+	<istream>
+	<string.h>
+	<fstream>
+
